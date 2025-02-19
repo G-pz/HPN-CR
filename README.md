@@ -16,7 +16,7 @@ This is the source code of [***HPN-CR: Heterogeneous Parallel Network for SAR-Op
 
 The architecture of *HPN* is shown as follows.
 
-<div align="center"><img src="./hpn_cr.png" style="width: 80%; height: auto;"></div>
+<div align="center"><img src="./hpn_cr.png" style="width: 100%; height: auto;"></div>
 
 
 ## 2. DATASET
