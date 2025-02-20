@@ -2,7 +2,7 @@
 <h1>HPN-CR: Heterogeneous Parallel Network for SAR-Optical Data Fusion Cloud Removal</h1>
 </div>
 
-This repository contains the codes for the paper "HPN-CR: Heterogeneous Parallel Network for SAR-Optical Data Fusion Cloud Removal" 
+This repository contains the codes for the paper "HPN-CR: Heterogeneous Parallel Network for SAR-Optical Data Fusion Cloud Removal".
 
 ## Paper Reference
 If you use the codes for your research, please cite us accordingly:
