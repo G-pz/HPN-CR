@@ -14,6 +14,8 @@ If you use the codes for your research, please cite us accordingly:
 
 This is the source code of [***HPN-CR: Heterogeneous Parallel Network for SAR-Optical Data Fusion Cloud Removal***]. In this work, a heterogeneous parallel network for cloud removal (HPN-CR) is proposed to achieve effective cloud removal in high cloud coverage scenarios.
 
+🔥🔥**Based on this code, the third prize in Track 1: Optical-SAR Fusion Cloud Removal was secured at the [2024 "DONGFANGHANGTIANGANG· STAR.VISION" Remote Sensing Image Intelligent Processing Algorithm Competition](http://rsipac.whu.edu.cn/index).**
+
 The architecture of *HPN* is shown as follows.
 
 <div align="center"><img src="./hpn_cr.png" style="width: 100%; height: auto;"></div>
