@@ -8,7 +8,16 @@ This repository contains the codes for the paper "HPN-CR: Heterogeneous Parallel
 If you use the codes for your research, please cite us accordingly:
 
 ```
-
+@ARTICLE{10906642,
+  author={Gu, Panzhe and Liu, Wenchao and Feng, Shuyi and Wei, Tianyu and Wang, Jue and Chen, He},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={HPN-CR: Heterogeneous Parallel Network for SAR-Optical Data Fusion Cloud Removal}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Clouds;Transformers;Optical imaging;Feature extraction;Optical sensors;Land surface;Optical filters;Image color analysis;Image restoration;Radar polarimetry;Cloud removal;optical imagery;SAR-optical;data fusion;CNN;Transformer},
+  doi={10.1109/TGRS.2025.3546489}}
 ```
 ## 1. INTRODUCTION
 
