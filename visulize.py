@@ -32,10 +32,7 @@ def test(test_loader, network, result_dir):
         sar_data = batch['s1_data'].cuda()
         source = batch['source'].cuda()
         idx_img = batch['file_name']
-        # output = network(source_img, sar_data).cpu()
-        # output = network(source_img).cpu()
         output = network(source_img, sar_data).cpu()
-        # output = network(source, source).cpu()
         for i in range(0, args.batch_size):
             filename = idx_img[i]
             print(filename)
@@ -46,11 +43,11 @@ def test(test_loader, network, result_dir):
 
 
 if __name__ == '__main__':
-    img_dir = 'data/test/'
-    result_dir = './results/hpn_4branch'
+    img_dir = ''
+    result_dir = './'
     args = arg_parse()
 
-    weight_path = './model_save/ablation/hpn_4branches/weight_15.pth'
+    weight_path = './'
     network = mbn_cr().cuda()
     network.load_state_dict(torch.load(weight_path))
 
