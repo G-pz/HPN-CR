@@ -103,6 +103,11 @@ Use the following command to test the neural network:
 python test.py --weight_path ./backup/weight.pth
 ```
 
+To train a model:
+```
+python train.py
+```
+
 ## 5. CONTACT
 
 We are glad to hear if you have any suggestions and questions.
