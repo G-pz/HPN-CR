@@ -62,6 +62,10 @@ The constructed file structure in your computer should be shown as follows:
         |   +-- ROIs1158_spring_1_p30.tif
         |   +-- ...
         +-- data.csv
+        +-- source_folder
+            +-- s1
+            +-- s2
+            +-- s2_cloudy
      +-- val
         +-- s1
         |   +-- ROIs2017_winter_22_p30.tif
@@ -73,6 +77,10 @@ The constructed file structure in your computer should be shown as follows:
         |   +-- ROIs2017_winter_22_p30.tif
         |   +-- ...
         +-- data.csv
+        +-- source_folder
+            +-- s1
+            +-- s2
+            +-- s2_cloudy
      +-- test
         +-- s1
         |   +-- ROIs1158_spring_31_p30.tif
@@ -84,6 +92,10 @@ The constructed file structure in your computer should be shown as follows:
         |   +-- ROIs1158_spring_31_p30.tif
         |   +-- ...
         +-- data.csv
+        +-- source_folder
+            +-- s1
+            +-- s2
+            +-- s2_cloudy
 ```
 
 
