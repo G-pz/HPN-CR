@@ -3,7 +3,7 @@ import torch
 import argparse
 from torch.utils.data import DataLoader
 from utils import chw_to_hwc, write_rslt
-from model.hpn_5_4branches import *
+from model.hpn import *
 from dataloader import *
 import warnings
 
