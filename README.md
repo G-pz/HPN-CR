@@ -108,7 +108,7 @@ pip install -r requirments.txt
 ```
 
 ## 4. Get Started
-You can download the pretrained model from [here](https://drive.google.com/file/d/1JV_amiRn6QPb64O4fnNreSynQX1V_cqo/view?usp=drive_link) and put it in './backup'.
+You can download our trained model from [here](https://drive.google.com/file/d/1JV_amiRn6QPb64O4fnNreSynQX1V_cqo/view?usp=drive_link) and put it in './backup'.
 
 Use the following command to test the neural network:
 ```
